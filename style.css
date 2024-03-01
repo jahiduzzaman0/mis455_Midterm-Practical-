@@ -1,4 +1,3 @@
- /* Tasnim Nazifa Kamal 2010664 */
 @import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
 
@@ -40,7 +39,7 @@ p {
    div {
     margin: 50px ;
     padding: 25px;
-    background-color: #f0b476;
+    background-color: #62b6ee;
     border: 4px solid grey; 
     border-radius: 5%;
 } 
